@@ -17,7 +17,14 @@
 ```python
 # TODO: you code here...
 ```
-
+a = int(input("a: "))
+b = int(input("b: "))
+c = int(input("c: "))
+p = a + b + c
+p = p/2
+S = (p2*(p2-a)*(p2-b)*(p2-c))**0.5
+print("p=", p)
+print("s=", s)
 ---
 
 ### Данные для самопроверки
